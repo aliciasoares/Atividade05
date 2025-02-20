@@ -11,7 +11,7 @@
 ### Requisitos para o Computador Físico;
 - **Processador (CPU)**: Um processador com múltiplos núcleos e bom desempenho em multitarefas.
 - **Memória RAM:** Pelo menos 8GB de RAM, para melhorar o **desempenho** em multitarefas e operações simultâneas.
-- **Armazenamento:** **SSD** que sejam capazes de armazenar uma grande quantidade de informações, pois são muito mais rápidos que HDs tradicionais
+- **Armazenamento:** **SSD** que sejam capazes de armazenar uma grande quantidade de informações, pois são muito mais rápidos que HDs tradicionais.
 - **Fonte de Alimentação:** Potência Entre **300W e 1000W**, dependendo do uso, com com certificação 80 Plus e conectores para placa-mãe, CPU e outros dispositivos.
 - **Teclado USB:** O ideal seria conter a tecnologia mecânica oferecendo maior durabilidade e a membrana sendo mais acessível.
 - **Mouse:** USB ou sem fio. A **ergonomia** do mouse é importante para conforto, e botões extras podem ser úteis.
