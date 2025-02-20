@@ -13,6 +13,7 @@
 - Algumas decisões foram mais complexas, como a escolha da **placa-mãe e do processador**. A placa-mãe selecionada apresentou o melhor desempenho em conjunto com os outros componentes, embora exija uma futura atualização de **BIOS**. Já o processador foi escolhido com base no custo-benefício, equilibrando **potência de processamento e viabilidade econômica*, tornando-se a opção mais lógica para atender às necessidades do projeto. Além disso, escolhemos uma boa **Pasta Térmica** para manter a temperatura do processador em níveis baixos, e *evitar* o superaquecimento que pode prejudicar o **bom desempenho da máquina.**
 
 - Embora fosse possível economizar mais, priorizamos o **conforto do usuário**. Optamos por uma tela com **boa resolução** e **alta taxa de atualização**, além de **periféricos ergonômico**s, como um mouse e teclado **confortáveis**, acompanhados de um mousepad que ofereça **boa usabilidade para ambos.**
+
   
 ---
 
