@@ -41,7 +41,7 @@ Além de ser totalmente gratuito, se caso você encontrar problemas ou precisar 
 Ele também possui pacotes educacionais e ferramentas de *desenvolvimento* já prontas para uso, e é onde ajuda no aprendizado.
 
 ---
-## Manual de Instalação
+## Peças do PC
 1. ![image](https://github.com/user-attachments/assets/f2d7161e-67e2-4f7c-890a-5878890309ad)
 
 2. ![image](https://github.com/user-attachments/assets/18c4bdf2-6192-4bff-873f-f5973345be1d)
