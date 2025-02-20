@@ -160,7 +160,7 @@ Ele também possui pacotes educacionais e ferramentas de *desenvolvimento* já p
 ---
 
 ## Considerações Finais
-- Com essa atividade, aprendemos muitas coisas sobre as diversas matérias que foram abordadas.  Primeiramente, aprofundamos nosso entendimento sobre o **levantamento de requisitos**, tanto para uma máquina **física** quanto para uma **virtual**, compreendendo a importância dos requisitos para garantir o funcionamento adequado de cada componente dos sistemas em conjunto.
+- Com essa atividade, aprendemos muitas coisas sobre as diversas matérias que foram abordadas.  Primeiramente, aprofundamos nosso entendimento sobre **hardware**, tanto para uma máquina **física** quanto para uma **virtual**, compreendendo a importância dos requisitos para garantir o funcionamento adequado de cada componente dos sistemas em conjunto.
   
 - Além disso, ao trabalharmos com a gestão de orçamento, tivemos a oportunidade de explorar diferentes sites, comparar preços e analisar as especificações das peças para tomar decisões de compra mais eficientes. Essa experiência nos ensinou a **equilibrar qualidade e custo-benefício**, garantindo que todos os componentes escolhidos fossem compatíveis e atendessem aos nossos objetivos. Um dos aspectos mais úteis desse processo foi o estabelecimento de um valor máximo para o orçamento, o que nos ajudou a tomar decisões estratégicas e bem fundamentadas.
 
