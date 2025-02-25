@@ -153,7 +153,7 @@ Ele também possui pacotes educacionais e ferramentas de *desenvolvimento* já p
 
 ![image](https://github.com/user-attachments/assets/c5111c99-d123-4b91-82fe-dcecc1d53468)
 
-- Verificamos a instalação do **MsSQL**
+- Verificamos a instalação do **MySQL**
   
 ![image](https://github.com/user-attachments/assets/06ff87a2-4536-457b-b57f-b4bfd474b191)
 
